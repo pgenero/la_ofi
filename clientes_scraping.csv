@@ -1,0 +1,795 @@
+﻿client_id,nombre,estado,Salario,educacion,ocupacion,casa,autos,distancia_tienda
+AM-11365,Araceli Manzanares,C,90000,Licenciatura,Profesional,1,0,1-2 Km
+BS-12130,Benjamín Saavedra,S,60000,Licenciatura,Profesional,0,1,0-1 Km
+AT-10090,Alejandro Trejo,C,60000,Licenciatura,Profesional,1,1,2-5 Km
+AJ-10840,Amador Jasón,S,70000,Licenciatura,Profesional,0,1,5-10 Km
+LG-17920,Leonor Gómez,S,80000,Licenciatura,Profesional,1,4,1-2 Km
+CV-12475,Cristina Vergara,S,70000,Licenciatura,Profesional,1,1,5-10 Km
+EC-14410,Eusebio Cano,S,70000,Licenciatura,Profesional,1,1,5-10 Km
+HS-15655,Héctor Salcido,C,60000,Licenciatura,Profesional,1,2,0-1 Km
+WV-21820,Wendi Valdés,S,60000,Licenciatura,Profesional,1,3,10+ Km
+IC-16405,Iris Casares,S,70000,Licenciatura,Profesional,0,1,5-10 Km
+TA-21175,Teodora Atencio,S,70000,Licenciatura,Profesional,0,1,5-10 Km
+AR-10525,Amalia Ríos,C,60000,Licenciatura,Profesional,1,4,10+ Km
+FF-14890,Fidel Ferrer,C,100000,Licenciatura,Gestión,1,2,1-2 Km
+NM-19390,Nidia Mena,C,100000,Licenciatura,Gestión,1,3,0-1 Km
+VC-21490,Valeria Caldera,S,100000,Licenciatura,Gestión,0,3,1-2 Km
+RC-20440,Reinaldo Córdova,S,30000,Estudios universitarios (en curso),Obrero especializado,0,1,5-10 Km
+AV-10825,Amelia Vega,C,30000,Estudios universitarios (en curso),Obrero especializado,1,1,5-10 Km
+NP-19210,Natalia Paredes,S,20000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+BF-12040,Bibiana Ferro,S,30000,Estudios universitarios (en curso),Administrativo,1,2,5-10 Km
+TC-21085,Tina Cardona,S,40000,Educación secundaria,Obrero especializado,0,2,5-10 Km
+AH-11305,Ariadna Hernández,S,40000,Educación secundaria,Obrero especializado,0,2,1-2 Km
+AR-11335,Adriana Rocha,S,40000,Estudios universitarios (en curso),Obrero especializado,0,1,1-2 Km
+FV-14740,Felipe Vélez,C,40000,Estudios universitarios (en curso),Obrero especializado,1,1,5-10 Km
+VC-21535,Victoria Chavarría,C,40000,Estudios universitarios (en curso),Obrero especializado,1,1,1-2 Km
+PS-19870,Paola Solís,C,60000,Estudios universitarios (en curso),Obrero especializado,1,2,5-10 Km
+AF-10195,Adela Feliciano,C,10000,Educación secundaria (en curso),Administrativo,1,2,1-2 Km
+AR-10420,Azucena Rodríguez,S,30000,Estudios universitarios (en curso),Administrativo,0,2,1-2 Km
+JA-16990,Julieta Almanza,C,30000,Estudios universitarios (en curso),Administrativo,1,2,5-10 Km
+ÁC-10915,Ángel Chávez,C,30000,Estudios universitarios (en curso),Administrativo,1,2,1-2 Km
+OG-19795,Olvido Godoy,C,30000,Estudios universitarios (en curso),Administrativo,1,2,1-2 Km
+AD-10735,Alejandra Duarte,C,10000,Educación secundaria (en curso),Administrativo,1,2,1-2 Km
+BH-11935,Begoña Hinojosa,C,20000,Educación secundaria,Obrero especializado,1,2,1-2 Km
+CB-12445,Ciro Becerra,C,20000,Educación secundaria,Obrero especializado,1,2,1-2 Km
+UR-21355,Unai Rubalcaba,C,20000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+LL-17845,Lidia Laureano,C,20000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+MA-18685,María Acosta,C,10000,Educación secundaria (en curso),Administrativo,1,2,1-2 Km
+AY-11440,Asunción Ybarra,C,60000,Estudios universitarios (en curso),Obrero especializado,1,2,1-2 Km
+AB-10180,Adela Blanco,S,40000,Educación secundaria (en curso),Administrativo,0,2,5-10 Km
+IS-16585,Izaskun Sosa,C,10000,Educación secundaria (en curso),Administrativo,1,2,5-10 Km
+SP-20770,Sergio Porras,C,30000,Estudios universitarios (en curso),Administrativo,1,2,5-10 Km
+SN-20875,Santiago Núñez,C,30000,Estudios universitarios (en curso),Obrero especializado,1,2,1-2 Km
+IR-16360,Irati Rodríguez,C,60000,Estudios universitarios (en curso),Obrero especializado,1,2,1-2 Km
+KÁ-17245,Katia Ávila,C,70000,Estudios universitarios (en curso),Obrero especializado,1,2,0-1 Km
+AA-11005,Andrés Arellano,C,60000,Estudios universitarios (en curso),Obrero especializado,1,2,5-10 Km
+AL-11215,Anya Leyva,C,20000,Educación secundaria (en curso),Administrativo,1,2,1-2 Km
+AE-11320,Ares Espinosa,S,30000,Educación secundaria,Obrero especializado,0,2,1-2 Km
+GV-15430,Germán Vallejo,C,30000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+LC-17965,Lola Crespo,C,30000,Educación secundaria,Obrero especializado,0,2,1-2 Km
+UR-21400,Unai Reynoso,C,30000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+OL-19570,Odiseo Liébanas,S,40000,Educación secundaria (en curso),Administrativo,1,2,5-10 Km
+WN-21790,Waldo Nazario,C,30000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+LA-17905,Leopoldo Archuleta,S,30000,Educación secundaria,Obrero especializado,0,2,1-2 Km
+LS-18100,Luján Salinas,S,40000,Estudios universitarios (en curso),Administrativo,0,2,5-10 Km
+AP-11515,Aniceto Puertas,C,60000,Estudios universitarios (en curso),Obrero especializado,0,2,1-2 Km
+MR-18205,Mafalda Rojo,C,40000,Estudios universitarios (en curso),Obrero especializado,1,2,5-10 Km
+AR-11140,Antonio Rocha,C,40000,Estudios universitarios (en curso),Obrero especializado,1,2,5-10 Km
+DS-13705,Dino Saucedo,C,40000,Estudios universitarios (en curso),Obrero especializado,1,2,5-10 Km
+FA-14800,Florencio Anguiano,C,70000,Estudios de postgrado,Gestión,1,2,1-2 Km
+BH-12025,Berta Herrera,C,80000,Estudios universitarios (en curso),Obrero especializado,1,2,1-2 Km
+DM-13660,Dora Morales,S,80000,Estudios universitarios (en curso),Obrero especializado,1,2,5-10 Km
+SG-20755,Serafín Girón,C,80000,Estudios universitarios (en curso),Obrero especializado,1,2,5-10 Km
+AP-10060,Alan Pérez,C,80000,Estudios universitarios (en curso),Obrero especializado,1,2,5-10 Km
+KA-17350,Kristina Arroyo,C,40000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+JO-16735,Jeremías Orozco,S,40000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+NC-19150,Nadia Calderón,C,40000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+EN-14020,Elvira Nieves,C,60000,Estudios universitarios (en curso),Obrero especializado,0,2,1-2 Km
+EM-13855,Elías Macías,C,70000,Estudios universitarios (en curso),Profesional,1,2,5-10 Km
+MM-18715,Melis Montes,S,60000,Estudios universitarios (en curso),Profesional,1,2,5-10 Km
+NL-19105,Naiara Laboy,S,80000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+AP-11485,Aniceto Pérez,S,80000,Educación secundaria,Obrero especializado,0,2,1-2 Km
+MM-18175,Maciela Mata,C,80000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+CO-13105,Cosme Ojeda,S,80000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+BS-11785,Baltasar Santillán,S,80000,Educación secundaria,Obrero especializado,0,2,1-2 Km
+DL-13240,Dánae Lebrón,S,70000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+PO-20110,Pío Olivares,S,70000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+GA-15175,Germán Altamira,S,80000,Educación secundaria,Profesional,1,2,5-10 Km
+CC-12910,Concordia Cuéllar,S,80000,Educación secundaria,Profesional,1,2,5-10 Km
+EA-14170,Estela Alonso,S,80000,Educación secundaria,Profesional,0,2,1-2 Km
+ER-14305,Enric Ruiz,S,40000,Educación secundaria,Profesional,0,2,1-2 Km
+DS-13165,Dana Sandoval,S,160000,Estudios de postgrado,Gestión,1,2,0-1 Km
+CS-12655,Cintia Salgado,C,170000,Estudios de postgrado,Gestión,1,2,0-1 Km
+DC-13465,Débora Cabrera,C,120000,Licenciatura,Gestión,1,3,2-5 Km
+LT-17935,Luís Tejada,S,130000,Estudios de postgrado,Gestión,0,3,1-2 Km
+IO-16315,Imanol Orellana,C,130000,Estudios de postgrado,Gestión,1,3,1-2 Km
+VV-21550,Victoria Valdivia,S,80000,Educación secundaria (en curso),Obrero especializado,0,2,1-2 Km
+LV-18145,Lidia Villaseñor,S,60000,Educación secundaria,Profesional,0,2,5-10 Km
+KS-17320,Karina Suárez,C,70000,Estudios universitarios (en curso),Profesional,1,0,0-1 Km
+AA-10390,Arturo Anguiano,C,70000,Estudios universitarios (en curso),Profesional,0,0,0-1 Km
+AL-10240,Adolfo Lira,C,80000,Licenciatura,Gestión,1,0,2-5 Km
+AP-11230,Ara Puente,S,80000,Licenciatura,Gestión,1,1,2-5 Km
+AB-10645,Alexia Bonilla,S,90000,Estudios universitarios (en curso),Profesional,1,1,2-5 Km
+JS-16915,Josué Solórzano,C,90000,Estudios universitarios (en curso),Profesional,1,1,5-10 Km
+AO-10255,Adolfo Ojeda,C,90000,Licenciatura,Profesional,1,0,1-2 Km
+LG-17815,Lorena Garay,C,100000,Estudios de postgrado,Gestión,1,0,0-1 Km
+BM-11920,Benito Marcos,S,70000,Estudios universitarios (en curso),Obrero especializado,0,1,0-1 Km
+CC-12370,Cándida Celaya,S,70000,Estudios universitarios (en curso),Obrero especializado,1,1,5-10 Km
+AS-10330,Armando Sánchez,C,60000,Licenciatura,Profesional,1,1,5-10 Km
+GC-15520,Gregorio Cuéllar,C,60000,Estudios universitarios (en curso),Obrero especializado,1,1,5-10 Km
+LA-17710,Luciano Alonzo,S,60000,Estudios universitarios (en curso),Obrero especializado,0,1,0-1 Km
+LA-17395,Leandro Armendáriz,C,60000,Licenciatura,Profesional,1,1,0-1 Km
+IS-16240,Isidoro Salas,S,60000,Estudios universitarios (en curso),Obrero especializado,1,1,5-10 Km
+CM-12760,Clemencia Mendoza,S,70000,Licenciatura,Profesional,0,1,0-1 Km
+CL-12205,Camilo Laderas,S,80000,Licenciatura,Profesional,1,4,1-2 Km
+FB-14980,Fuensanta Barrios,S,70000,Licenciatura,Profesional,1,1,5-10 Km
+AT-10600,Albertina Tamayo,C,70000,Licenciatura,Profesional,0,1,0-1 Km
+KL-17290,Kevin Lucio,S,70000,Licenciatura,Profesional,0,1,5-10 Km
+NL-19435,Noa León,S,70000,Licenciatura,Profesional,0,1,5-10 Km
+NR-19345,Nieves Robles,C,90000,Licenciatura,Profesional,1,1,5-10 Km
+PL-20095,Prudencio Luna,S,70000,Licenciatura,Profesional,0,2,0-1 Km
+KD-17170,Katia Díaz,S,70000,Licenciatura,Profesional,0,2,0-1 Km
+GF-15490,Gustavo Farías,C,60000,Estudios universitarios (en curso),Obrero especializado,1,1,5-10 Km
+NL-19300,Nelson Limón,C,60000,Estudios universitarios (en curso),Obrero especializado,1,1,0-1 Km
+GB-15070,Gabriela Barca,C,60000,Estudios universitarios (en curso),Obrero especializado,1,1,0-1 Km
+CO-12490,Carmelo Ortega,C,70000,Licenciatura,Profesional,1,2,5-10 Km
+CQ-12865,Conrado Quiñones,S,70000,Estudios universitarios (en curso),Obrero especializado,1,2,5-10 Km
+AR-10990,Anastasia Rosales,C,70000,Estudios universitarios (en curso),Obrero especializado,1,2,0-1 Km
+TN-21010,Tania Naranjo,C,70000,Estudios universitarios (en curso),Obrero especializado,1,2,5-10 Km
+IS-16120,Isaac Sarabia,C,70000,Estudios universitarios (en curso),Obrero especializado,1,3,10+ Km
+KV-17335,Kevin Vera,S,80000,Estudios universitarios (en curso),Obrero especializado,0,1,0-1 Km
+TR-21280,Tobías Ramírez,S,30000,Estudios universitarios (en curso),Administrativo,0,2,0-1 Km
+GA-15190,Gerardo Almonta,S,40000,Licenciatura,Gestión,1,1,5-10 Km
+ED-14125,Eleonora Delgadillo,C,70000,Estudios universitarios (en curso),Obrero especializado,1,3,10+ Km
+FC-14560,Faustina Carrera,C,70000,Estudios universitarios (en curso),Obrero especializado,1,3,5-10 Km
+CV-12430,Casimira Villegas,C,70000,Estudios universitarios (en curso),Obrero especializado,1,3,10+ Km
+IR-16465,Isaías Rosales,S,80000,Estudios universitarios (en curso),Obrero especializado,1,1,5-10 Km
+CR-12835,Cornelio Reina,S,70000,Estudios universitarios (en curso),Obrero especializado,1,1,5-10 Km
+PC-19840,Pamela Casanova,C,10000,Educación secundaria,Obrero especializado,0,2,0-1 Km
+JU-17065,Justa Uribe,C,40000,Educación secundaria,Obrero especializado,1,1,5-10 Km
+HM-15745,Humberto Montalvo,C,40000,Educación secundaria,Obrero especializado,1,1,5-10 Km
+OS-19585,Odón Santiago,S,40000,Educación secundaria,Obrero especializado,1,1,5-10 Km
+AS-11455,Ariadna Salcedo,C,30000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+MT-18640,Maya Tafoya,C,30000,Educación secundaria,Obrero especializado,0,2,0-1 Km
+DT-13585,Dolores Treviño,S,30000,Educación secundaria,Obrero especializado,0,2,5-10 Km
+CS-12850,Cornelio Sauceda,S,30000,Educación secundaria (en curso),Administrativo,0,2,0-1 Km
+JA-16795,Joaquín Apodaca,S,10000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+BP-11755,Bárbara Portillo,S,30000,Educación secundaria (en curso),Administrativo,0,2,5-10 Km
+RA-20290,Raimon Acosta,S,40000,Educación secundaria,Obrero especializado,0,2,0-1 Km
+CC-12880,Clotilde Carrillo,C,40000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+MV-18190,Marc Vallejo,C,40000,Educación secundaria,Obrero especializado,0,2,0-1 Km
+IM-16435,Isidora Martín,S,30000,Estudios universitarios (en curso),Administrativo,0,2,5-10 Km
+MR-18820,Millán Rubio,S,30000,Educación secundaria (en curso),Administrativo,0,2,5-10 Km
+PR-19990,Patricio Romo,C,40000,Educación secundaria,Obrero especializado,0,2,0-1 Km
+OO-19555,Octavio Ocampo,S,40000,Educación secundaria,Obrero especializado,0,2,0-1 Km
+JH-16750,José Hernández,C,40000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+CV-12385,Carina Verdes,S,40000,Educación secundaria,Obrero especializado,0,2,0-1 Km
+SS-20935,Selena Savoya,S,40000,Educación secundaria,Obrero especializado,0,2,0-1 Km
+HM-16000,Hugo Maldonado,S,40000,Licenciatura,Gestión,1,2,5-10 Km
+SG-20815,Simón Gracia,C,60000,Estudios de postgrado,Gestión,1,1,0-1 Km
+GO-15025,Gabriel Osorio,C,40000,Licenciatura,Gestión,1,2,5-10 Km
+ÁA-10360,Ágata Alonso,C,40000,Licenciatura,Gestión,1,2,0-1 Km
+JD-16900,Josué Delgado,S,40000,Licenciatura,Gestión,1,2,5-10 Km
+PC-19915,Patrocinio Castro,S,60000,Estudios de postgrado,Gestión,0,1,0-1 Km
+LB-17950,Livia Banda,S,40000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+LO-17455,Leonardo Olmos,C,40000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+CM-12235,Carlos Marrero,S,40000,Estudios universitarios (en curso),Obrero especializado,1,1,5-10 Km
+MC-18595,Matilda Carbajal,S,40000,Estudios universitarios (en curso),Obrero especializado,0,1,1-2 Km
+MN-18160,Macarena Nava,S,40000,Estudios universitarios (en curso),Obrero especializado,0,1,1-2 Km
+TL-21115,Teodoro Llarnas,C,40000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+SB-20680,Samanta Botello,S,40000,Educación secundaria,Obrero especializado,1,2,5-10 Km
+FV-14860,Flavio Vergara,S,40000,Educación secundaria,Obrero especializado,0,2,1-2 Km
+AA-11470,Asís Aguilera,S,40000,Estudios universitarios (en curso),Obrero especializado,0,1,5-10 Km
+SS-20725,Salma Soria,S,40000,Estudios universitarios (en curso),Obrero especializado,0,1,1-2 Km
+AB-11185,Antonia Baeza,S,40000,Estudios universitarios (en curso),Obrero especializado,1,1,5-10 Km
+LL-18085,Luisa Liébanas,C,40000,Estudios universitarios (en curso),Obrero especializado,1,1,5-10 Km
+TO-21190,Thiago Olivares,S,40000,Estudios universitarios (en curso),Obrero especializado,0,1,1-2 Km
+FL-14665,Fernando Limón,C,60000,Estudios universitarios (en curso),Obrero especializado,0,1,1-2 Km
+ES-13975,Eloísa Soto,S,70000,Estudios universitarios (en curso),Obrero especializado,0,2,0-1 Km
+ES-14200,Emanuel Saucedo,S,80000,Licenciatura,Gestión,0,1,0-1 Km
+CB-13030,Crístofer Barraza,S,80000,Licenciatura,Gestión,0,1,0-1 Km
+EA-14470,Ezequiel Acevedo,C,90000,Licenciatura,Gestión,1,1,0-1 Km
+MR-18400,Manila Roque,C,90000,Licenciatura,Gestión,1,1,0-1 Km
+FM-14785,Flora Montes,S,100000,Licenciatura,Gestión,1,2,1-2 Km
+VM-21460,Valentina Macías,C,100000,Licenciatura,Gestión,1,2,1-2 Km
+EP-13810,Eleonor Pina,S,110000,Estudios de postgrado,Gestión,0,4,0-1 Km
+QM-20155,Quinto Muñoz,C,110000,Estudios de postgrado,Gestión,1,0,2-5 Km
+DM-13630,Delia Miramontes,S,70000,Estudios universitarios (en curso),Obrero especializado,1,2,5-10 Km
+HC-15685,Hilda Contreras,C,90000,Licenciatura,Gestión,1,1,1-2 Km
+WA-21775,Walter Alcaraz,C,110000,Estudios de postgrado,Gestión,1,2,5-10 Km
+FB-14995,Fidel Badillo,C,100000,Estudios de postgrado,Gestión,1,3,1-2 Km
+BR-11950,Bernardo Rosas,C,120000,Estudios de postgrado,Gestión,1,3,5-10 Km
+NL-19525,Núria Laureano,C,160000,Licenciatura,Gestión,1,4,0-1 Km
+EC-14530,Evaristo Corona,C,170000,Estudios de postgrado,Gestión,1,2,0-1 Km
+TJ-21265,Tito Jáquez,S,70000,Licenciatura,Gestión,1,2,10+ Km
+ÁM-10765,Álvaro Muñoz,S,70000,Licenciatura,Gestión,1,2,10+ Km
+DT-13675,Dorotea Treviño,S,70000,Licenciatura,Gestión,1,2,10+ Km
+NQ-19075,Nadal Quiñones,S,70000,Licenciatura,Gestión,1,2,10+ Km
+AD-10480,Anastasia Dávila,S,70000,Licenciatura,Gestión,1,2,10+ Km
+DV-13285,Daniela Vélez,C,60000,Estudios de postgrado,Gestión,1,2,10+ Km
+JS-17095,José Sánchez,C,60000,Estudios de postgrado,Gestión,0,2,1-2 Km
+AA-11665,Alina Anaya,S,60000,Estudios de postgrado,Gestión,1,2,10+ Km
+AR-10345,Amadeo Rocha,C,70000,Licenciatura,Gestión,1,2,10+ Km
+ÁP-11080,Ángel Pineda,S,70000,Licenciatura,Gestión,1,3,10+ Km
+ÉC-14365,Érica Casas,C,60000,Licenciatura,Gestión,1,2,2-5 Km
+VB-21610,Virginia Baeza,C,60000,Licenciatura,Gestión,1,2,2-5 Km
+PZ-19825,Paloma Zamora,C,60000,Licenciatura,Gestión,1,2,2-5 Km
+UL-21340,Ulises Lebrón,C,60000,Licenciatura,Gestión,1,3,10+ Km
+DS-13255,Daniel Santillán,C,60000,Licenciatura,Gestión,1,3,10+ Km
+CA-12220,Carina Almaraz,C,70000,Licenciatura,Gestión,0,1,1-2 Km
+MA-18250,Mafalda Alvarado,S,70000,Licenciatura,Gestión,1,1,10+ Km
+MC-18760,Mauro Cortés,C,70000,Licenciatura,Gestión,1,1,10+ Km
+SA-20845,Samuel Alemán,C,70000,Licenciatura,Gestión,1,1,1-2 Km
+AE-11200,Anya Espinoza,C,70000,Licenciatura,Gestión,1,1,10+ Km
+HC-15985,Humberto Cepeda,C,80000,Licenciatura,Gestión,0,2,1-2 Km
+ER-14485,Eulalia Rolón,C,40000,Educación secundaria,Profesional,1,2,10+ Km
+MG-18910,Mireia Garay,C,40000,Educación secundaria,Profesional,1,2,2-5 Km
+GF-15445,Guillermina Farías,C,40000,Educación secundaria,Profesional,1,2,10+ Km
+NJ-19330,Nieves Jasón,C,60000,Estudios universitarios (en curso),Profesional,1,1,10+ Km
+NL-19480,Nuncio Lugo,S,60000,Estudios universitarios (en curso),Profesional,1,1,10+ Km
+TT-20995,Tatiana Téllez,C,60000,Licenciatura,Gestión,1,0,10+ Km
+CF-12985,Cristóbal Figueroa,C,60000,Licenciatura,Gestión,1,0,10+ Km
+TG-21055,Tamara González,C,70000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+VC-21715,Violeta Cruz,C,40000,Educación secundaria,Profesional,1,2,2-5 Km
+IS-16450,Isaías Sarabia,C,40000,Educación secundaria,Profesional,1,2,2-5 Km
+DC-13690,Dino Ceballos,S,60000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+SO-20800,Sandra Orta,S,60000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+BT-11710,Baltasar Téllez,C,40000,Educación secundaria (en curso),Obrero especializado,1,2,10+ Km
+IG-16570,Iván Girón,S,60000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+FP-14545,Fátima Pina,S,60000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+DB-13720,Dulce Beltrán,S,60000,Estudios universitarios (en curso),Profesional,0,2,2-5 Km
+FO-14755,Felipe Oquendo,C,60000,Educación secundaria,Profesional,1,2,10+ Km
+CS-12745,Celia Salgado,C,60000,Estudios universitarios (en curso),Profesional,1,1,10+ Km
+ER-14035,Eric Ruiz,C,70000,Estudios universitarios (en curso),Profesional,1,1,1-2 Km
+MM-18460,Maricruz Matos,C,80000,Licenciatura,Gestión,1,1,1-2 Km
+LB-17425,León Batista,S,70000,Educación secundaria,Profesional,1,2,2-5 Km
+OM-19765,Osmundo Montes,S,70000,Educación secundaria,Profesional,1,2,10+ Km
+LA-17980,Lorena Aguayo,C,60000,Estudios universitarios (en curso),Profesional,1,1,10+ Km
+IB-16150,Isabel Bermúdez,C,60000,Estudios universitarios (en curso),Profesional,1,1,2-5 Km
+BR-11845,Basilio Ruiz,S,60000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+HL-15550,Helena Llarnas,C,60000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+BL-11890,Baudilio Lozada,S,70000,Estudios universitarios (en curso),Profesional,1,1,10+ Km
+NE-19060,Nadal Escalante,C,70000,Estudios universitarios (en curso),Profesional,0,2,2-5 Km
+HC-15955,Hernán Canales,C,60000,Educación secundaria,Profesional,1,2,10+ Km
+ER-14335,Eugenio Rentería,C,60000,Educación secundaria,Profesional,0,2,2-5 Km
+IG-16495,Isolda Guardado,C,70000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+FM-14680,Florida Mascarenas,S,70000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+LC-17635,León Caballero,C,70000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+DT-13270,Daniel Tovar,S,70000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+CB-12325,César Benítez,S,130000,Licenciatura,Gestión,0,4,0-1 Km
+GL-15235,Guillermina Lebrón,S,130000,Licenciatura,Gestión,0,4,0-1 Km
+VC-21730,Virgilio Cardona,C,130000,Estudios universitarios (en curso),Profesional,0,2,5-10 Km
+SO-20650,Sabina Ornelas,C,160000,Estudios universitarios (en curso),Profesional,1,4,5-10 Km
+BP-11995,Benita Pelayo,S,100000,Estudios universitarios (en curso),Profesional,1,4,5-10 Km
+MG-18970,Miren Gil,C,110000,Estudios universitarios (en curso),Profesional,1,3,5-10 Km
+TO-21040,Teresa Olivera,C,150000,Estudios universitarios (en curso),Profesional,1,3,0-1 Km
+LV-17470,Leire Velázquez,S,170000,Licenciatura,Gestión,0,3,0-1 Km
+LG-17515,Lorenzo Garrido,C,120000,Educación secundaria,Profesional,0,4,5-10 Km
+GC-15385,Gracia Collado,C,120000,Educación secundaria,Profesional,0,4,5-10 Km
+NM-19120,Nicolás Matías,S,130000,Estudios universitarios (en curso),Profesional,0,3,0-1 Km
+HV-15625,Heriberto Valderas,C,110000,Estudios universitarios (en curso),Profesional,1,4,10+ Km
+MA-18850,Miguelina Agosto,C,130000,Estudios universitarios (en curso),Profesional,1,3,0-1 Km
+CO-12670,Cira Ornelas,C,170000,Educación secundaria,Profesional,1,2,5-10 Km
+IC-16165,Iris Campos,S,30000,Educación secundaria,Profesional,0,2,5-10 Km
+FB-14590,Flavia Bravo,S,90000,Estudios de postgrado,Gestión,1,1,2-5 Km
+PS-20065,Piedad Sosa,C,60000,Estudios de postgrado,Gestión,1,2,1-2 Km
+JB-16675,Josefa Bueno,C,70000,Estudios de postgrado,Gestión,1,2,5-10 Km
+AB-10795,Amaia Briseño,C,70000,Estudios de postgrado,Gestión,1,2,5-10 Km
+OL-19645,Olga Laureano,C,70000,Estudios de postgrado,Gestión,1,2,5-10 Km
+PC-20050,Plácido Calvillo,S,120000,Estudios de postgrado,Gestión,1,4,2-5 Km
+SB-20980,Susana Braza,C,120000,Estudios de postgrado,Gestión,1,4,2-5 Km
+PL-19945,Piero Limón,C,100000,Estudios universitarios (en curso),Profesional,1,4,2-5 Km
+AN-10870,Aarón Navarrete,C,110000,Licenciatura,Gestión,1,3,2-5 Km
+PM-19975,Paz Montes,C,130000,Estudios de postgrado,Gestión,1,1,0-1 Km
+CV-12400,Carmín Vera,C,80000,Licenciatura,Gestión,1,0,0-1 Km
+JT-16855,Jonás Toro,C,90000,Estudios universitarios (en curso),Profesional,1,3,2-5 Km
+JG-17020,Juno Guerrero,S,90000,Estudios universitarios (en curso),Profesional,0,3,0-1 Km
+RN-20260,Rafel Nieves,C,90000,Estudios universitarios (en curso),Profesional,1,3,0-1 Km
+VM-21475,Valentina Méndez,S,90000,Estudios universitarios (en curso),Profesional,0,1,5-10 Km
+AV-10465,Amadeo Villareal,S,120000,Estudios universitarios (en curso),Profesional,1,4,2-5 Km
+MC-18895,Marisa Cantudo,C,130000,Estudios de postgrado,Gestión,1,2,1-2 Km
+IR-16525,Irma Rubalcaba,C,130000,Estudios de postgrado,Gestión,1,2,0-1 Km
+MS-18565,Mateo Salazar,C,130000,Estudios de postgrado,Gestión,1,3,0-1 Km
+JG-16945,Juanita Guzmán,S,150000,Licenciatura,Gestión,0,4,1-2 Km
+CE-13150,Cintia Escobar,S,70000,Estudios universitarios (en curso),Profesional,1,0,5-10 Km
+MC-18505,Maro Castro,C,90000,Estudios universitarios (en curso),Profesional,1,0,10+ Km
+CR-13120,Cirilo Rosario,C,50000,Estudios de postgrado,Gestión,1,2,5-10 Km
+TO-21025,Tomás Olivera,C,80000,Estudios de postgrado,Gestión,1,2,0-1 Km
+MC-19045,Mirna Callas,C,80000,Estudios universitarios (en curso),Profesional,1,2,2-5 Km
+OT-19600,Olaya Torres,C,80000,Estudios universitarios (en curso),Profesional,1,2,0-1 Km
+AB-11125,Adolfo Baca,S,90000,Estudios universitarios (en curso),Profesional,0,1,10+ Km
+BC-11830,Beltrán Comino,C,90000,Estudios universitarios (en curso),Profesional,1,1,10+ Km
+SG-20965,Silvia Gil,C,90000,Estudios universitarios (en curso),Profesional,1,1,10+ Km
+SC-20665,Salomé Castillo,S,110000,Licenciatura,Gestión,1,4,5-10 Km
+RS-20335,Rebeca Segura,C,90000,Estudios universitarios (en curso),Profesional,1,4,1-2 Km
+LM-17755,Laura Meza,C,110000,Licenciatura,Gestión,1,2,1-2 Km
+IÁ-16285,Irene Álamo,C,110000,Licenciatura,Gestión,1,2,1-2 Km
+AU-11290,Aria Urbina,C,120000,Estudios universitarios (en curso),Profesional,0,4,2-5 Km
+AR-11410,Arturo Rocarte,C,170000,Estudios de postgrado,Gestión,1,4,2-5 Km
+LG-17410,Leo Gutiérrez,C,70000,Estudios universitarios (en curso),Profesional,0,3,5-10 Km
+MS-18295,Marcial Sandoval,C,110000,Licenciatura,Gestión,1,3,2-5 Km
+DG-13435,Diana García,C,130000,Licenciatura,Gestión,1,1,0-1 Km
+AG-11575,Atila Godoy,C,130000,Licenciatura,Gestión,1,3,2-5 Km
+CA-12355,Camilo Almaraz,C,130000,Licenciatura,Gestión,1,3,2-5 Km
+AT-11500,Aniceto Toledo,S,150000,Estudios universitarios (en curso),Profesional,0,3,0-1 Km
+RM-20590,Rita Marín,S,60000,Educación secundaria,Profesional,0,2,1-2 Km
+LA-17650,Lea Arroyo,C,60000,Educación secundaria,Profesional,0,2,1-2 Km
+HO-15640,Heriberto Ortega,S,80000,Educación secundaria (en curso),Obrero especializado,1,2,5-10 Km
+MO-18730,Margarita Orellana,S,50000,Estudios de postgrado,Gestión,1,2,5-10 Km
+JV-17080,Justina Vaca,S,70000,Estudios de postgrado,Gestión,1,2,5-10 Km
+JP-16975,Julia Paredes,C,70000,Estudios de postgrado,Gestión,1,2,1-2 Km
+JS-16660,Jorge Saucedo,C,70000,Estudios de postgrado,Gestión,1,2,1-2 Km
+GO-15400,Gracias Olivera,C,80000,Estudios universitarios (en curso),Profesional,0,3,1-2 Km
+NM-19450,Nino Mata,C,80000,Estudios universitarios (en curso),Profesional,1,4,5-10 Km
+NG-19165,Noemí González,S,90000,Educación secundaria,Profesional,0,3,1-2 Km
+PC-20020,Penélope Carrero,S,90000,Educación secundaria,Profesional,0,3,1-2 Km
+RR-20515,Roque Rivas,C,100000,Estudios universitarios (en curso),Profesional,1,0,5-10 Km
+BS-12055,Betsabé Saldaña,C,110000,Estudios universitarios (en curso),Profesional,0,4,2-5 Km
+VS-21505,Vanesa Sarabia,C,110000,Estudios universitarios (en curso),Profesional,0,4,2-5 Km
+ES-14515,Eulalia Sánchez,C,80000,Educación secundaria (en curso),Obrero especializado,1,2,5-10 Km
+CG-12340,César Gallardo,C,60000,Educación secundaria,Profesional,0,2,1-2 Km
+ML-18940,Moisés Lucio,S,60000,Educación secundaria,Profesional,1,2,5-10 Km
+MV-18340,Malena Viera,S,70000,Estudios de postgrado,Gestión,1,2,5-10 Km
+MA-18370,Manuela Armenta,S,70000,Estudios de postgrado,Gestión,0,2,1-2 Km
+VO-21580,Vanesa Olmos,S,70000,Estudios de postgrado,Gestión,1,2,5-10 Km
+LC-17530,Loreto Cepeda,S,70000,Estudios de postgrado,Gestión,1,2,5-10 Km
+EN-13900,Emilio Noriega,S,70000,Estudios de postgrado,Gestión,0,2,1-2 Km
+GT-15250,Gustavo Trejo,S,70000,Estudios de postgrado,Gestión,0,2,1-2 Km
+HA-15700,Heidi Anaya,C,60000,Estudios de postgrado,Gestión,1,2,5-10 Km
+GC-15130,Gerardo Carrillo,S,40000,Estudios universitarios (en curso),Profesional,0,2,5-10 Km
+CA-13060,Claudia Aguilar,S,40000,Estudios universitarios (en curso),Profesional,0,2,1-2 Km
+IL-16105,Isaac Leyva,C,70000,Estudios de postgrado,Gestión,0,2,1-2 Km
+JM-16720,Jeremías Montés,C,80000,Estudios de postgrado,Gestión,1,2,5-10 Km
+QG-20200,Quique Griego,C,90000,Licenciatura,Gestión,1,2,5-10 Km
+AB-11545,Astrid Briseño,C,90000,Licenciatura,Gestión,1,2,5-10 Km
+LV-17770,Lara Varela,S,120000,Estudios de postgrado,Gestión,1,3,5-10 Km
+HC-15760,Heraldo Cadena,C,90000,Licenciatura,Gestión,1,2,1-2 Km
+SA-20920,Sofía Alba,S,90000,Licenciatura,Gestión,1,2,5-10 Km
+IV-16300,Irene Verdes,C,130000,Licenciatura,Gestión,1,4,0-1 Km
+WM-21805,Wendy Morales,C,90000,Licenciatura,Gestión,1,2,5-10 Km
+NV-19360,Normán Venegas,C,90000,Licenciatura,Gestión,1,2,5-10 Km
+CA-12715,Claudio Aguilar,S,90000,Licenciatura,Gestión,1,2,5-10 Km
+TR-21250,Trinidad Rubio,C,110000,Estudios de postgrado,Gestión,1,1,2-5 Km
+DC-13480,Débora Ceja,C,90000,Estudios universitarios (en curso),Obrero especializado,1,2,1-2 Km
+JA-16885,Joshua Altamirano,S,10000,Estudios de postgrado,Obrero,1,0,0-1 Km
+AM-10075,Alberto Márquez,C,20000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+HH-15850,Higinia Horta,C,10000,Licenciatura,Obrero,1,0,0-1 Km
+EM-13990,Elsa Mújica,C,10000,Licenciatura,Obrero,1,0,0-1 Km
+LD-18130,Luna Delgado,C,20000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+GI-15370,Gorka Irizarri,C,10000,Licenciatura,Obrero,1,0,0-1 Km
+GB-15055,Gabriela Bustamante,C,20000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+DV-13420,Dora Villaseñor,S,20000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+EC-14395,Ernestina Cepeda,C,10000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+RZ-20275,Rafel Zarate,C,20000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+JC-17005,Julio César Torres,C,30000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+AA-10225,Alejandra Alcaraz,C,10000,Licenciatura,Obrero,1,0,0-1 Km
+LS-17695,Luciano Sosa,C,10000,Estudios universitarios (en curso),Obrero,1,0,0-1 Km
+CL-12775,Clementino Leiva,S,10000,Estudios universitarios (en curso),Obrero,1,0,0-1 Km
+MA-18580,Matilde Alvarado,S,10000,Estudios universitarios (en curso),Obrero,1,1,0-1 Km
+AV-10210,Aída Vélez,C,10000,Estudios universitarios (en curso),Obrero,1,1,0-1 Km
+LB-17860,Luciano Bernal,C,10000,Estudios universitarios (en curso),Obrero,1,1,0-1 Km
+RC-20350,Rafaela Carvajal,C,10000,Estudios universitarios (en curso),Obrero,1,1,2-5 Km
+MB-19030,Mora Borrego,C,30000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+HS-15610,Higinio Suárez,S,20000,Licenciatura,Administrativo,1,0,0-1 Km
+AN-10435,Agustín Negrete,C,10000,Estudios universitarios (en curso),Obrero,1,1,0-1 Km
+LC-17440,Lara Cantú,S,30000,Licenciatura,Administrativo,1,0,0-1 Km
+DA-13345,Diana Aguirre,C,20000,Estudios universitarios (en curso),Obrero,1,0,0-1 Km
+NA-19495,Nora Arroyo,C,40000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+DA-13555,Dimitri Arcones,S,10000,Estudios universitarios (en curso),Obrero,0,1,2-5 Km
+TA-21310,Tomás Arredondo,S,10000,Estudios universitarios (en curso),Obrero,0,1,2-5 Km
+AL-10975,Amanda Limón,S,10000,Estudios universitarios (en curso),Obrero,0,1,0-1 Km
+NH-19240,Neftalí Herrera,S,10000,Estudios universitarios (en curso),Obrero,0,1,0-1 Km
+CL-12505,Cipriano Lucero,S,10000,Estudios universitarios (en curso),Obrero,1,1,2-5 Km
+LP-17740,Laura Prieto,C,10000,Educación secundaria,Obrero,1,2,0-1 Km
+IL-16375,Ignacio Lobato,C,10000,Educación secundaria,Obrero,0,2,0-1 Km
+AC-10780,Amadeo Collado,S,10000,Educación secundaria,Obrero,0,2,0-1 Km
+AZ-10300,Anselmo Zambrano,S,10000,Educación secundaria,Obrero,0,0,2-5 Km
+YA-21880,Yanira Acuna,S,10000,Educación secundaria,Obrero,0,0,1-2 Km
+KP-17275,Karina Padilla,C,20000,Licenciatura,Administrativo,1,0,0-1 Km
+GZ-15115,Gerardo Zaragoza,C,20000,Licenciatura,Administrativo,1,0,0-1 Km
+ML-18325,Marcos Laureano,S,10000,Educación secundaria,Obrero,0,0,1-2 Km
+GG-15340,Gloria Girón,C,20000,Licenciatura,Administrativo,0,0,0-1 Km
+GG-15265,Gabriela Guerrero,C,20000,Licenciatura,Administrativo,1,0,0-1 Km
+EG-13735,Edith González,C,20000,Licenciatura,Administrativo,1,0,0-1 Km
+SM-20890,Saúl Mendoza,S,20000,Licenciatura,Administrativo,1,0,0-1 Km
+DC-13525,David Caraballo,C,30000,Licenciatura,Administrativo,1,0,0-1 Km
+GO-15310,Gema Olivera,S,30000,Licenciatura,Administrativo,1,0,0-1 Km
+RP-20245,Rafa Portillo,C,30000,Licenciatura,Administrativo,1,0,0-1 Km
+CV-12700,Clarisa Valle,S,40000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+AR-10750,Adriano Rolón,C,30000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+BA-11965,Benito Armenteros,S,10000,Educación secundaria,Obrero,0,1,2-5 Km
+TG-21100,Teo Guerrero,C,10000,Educación secundaria,Obrero,1,1,2-5 Km
+AB-10135,Alfredo Barajas,S,20000,Estudios universitarios (en curso),Obrero,1,1,1-2 Km
+MR-18550,Mateo Rodríguez,C,20000,Estudios universitarios (en curso),Obrero,1,1,2-5 Km
+AT-11560,Adriana Téllez,C,20000,Estudios universitarios (en curso),Obrero,1,1,2-5 Km
+AB-10885,Ana Borrego,C,30000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+KC-17200,Karmele Carbajal,C,30000,Licenciatura,Administrativo,1,0,0-1 Km
+HE-16030,Humberto Espinal,S,30000,Licenciatura,Administrativo,1,0,0-1 Km
+RA-20530,Romero Arévalo,C,30000,Licenciatura,Administrativo,1,0,0-1 Km
+IB-16090,Isaac Barajas,S,40000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+LR-17665,Lope Rodríguez,C,40000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+GA-15205,Gregorio Acuna,S,10000,Educación secundaria,Obrero,0,1,2-5 Km
+MF-18385,Manuela Flores,S,10000,Educación secundaria,Obrero,0,1,2-5 Km
+PA-19900,Patricia Agosto,S,10000,Educación secundaria,Obrero,1,0,0-1 Km
+JA-16705,Jazmín Aguirre,S,10000,Educación secundaria,Obrero,1,0,0-1 Km
+EG-14050,Elías Guerrero,S,10000,Educación secundaria,Obrero,1,0,0-1 Km
+KV-17155,Karim Valdés,S,10000,Educación secundaria,Obrero,1,0,0-1 Km
+MT-18265,Maira Trejo,S,30000,Licenciatura,Administrativo,1,0,0-1 Km
+AC-11680,Alina Casillas,C,10000,Educación secundaria,Obrero,0,1,0-1 Km
+DJ-13510,Domingo Jaime,S,20000,Estudios universitarios (en curso),Obrero,0,1,0-1 Km
+OP-19630,Olimpia Pedraza,S,30000,Licenciatura,Administrativo,1,0,0-1 Km
+AP-10705,Alicia Pizarro,S,30000,Licenciatura,Administrativo,1,0,0-1 Km
+MC-18865,Miguel Chapa,S,40000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+FO-14725,Felipe Olivera,C,40000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+MC-18445,Marcel Corral,C,40000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+VO-21520,Vera Olmos,S,40000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+HV-15925,Horacio Valverde,S,10000,Estudios universitarios (en curso),Obrero,0,2,0-1 Km
+RV-20635,Rodolfo Villaseñor,S,10000,Estudios universitarios (en curso),Obrero,0,2,0-1 Km
+NP-19375,Normán Pedrosa,C,20000,Estudios universitarios (en curso),Obrero,1,1,2-5 Km
+EA-13825,Eloy Alcántara,C,20000,Estudios universitarios (en curso),Obrero,1,1,0-1 Km
+VA-21445,Valentina Acuna,C,10000,Educación secundaria,Obrero,0,2,0-1 Km
+LE-17590,Lupe Escalante,S,10000,Educación secundaria,Obrero,1,1,0-1 Km
+VM-21625,Víctor Morales,C,20000,Estudios universitarios (en curso),Obrero,1,0,2-5 Km
+AA-10615,Alicia Abrego,C,80000,Estudios universitarios (en curso),Profesional,0,1,2-5 Km
+AL-11035,Ane Lomeli,S,80000,Estudios universitarios (en curso),Profesional,1,1,10+ Km
+PL-19930,Paula Lara,C,80000,Estudios universitarios (en curso),Profesional,0,1,2-5 Km
+GA-15325,Germán Armijo,S,80000,Estudios universitarios (en curso),Profesional,1,1,10+ Km
+CD-12895,Conchi Durán,S,90000,Estudios universitarios (en curso),Profesional,0,2,10+ Km
+SP-20695,Sabino Pérez,C,60000,Educación secundaria (en curso),Obrero especializado,1,4,2-5 Km
+LS-17875,Luciano Solórzano,C,70000,Educación secundaria,Profesional,1,2,10+ Km
+OH-19675,Olegario Holguín,S,90000,Estudios universitarios (en curso),Profesional,0,2,10+ Km
+PB-19810,Paciente Bravo,C,150000,Estudios de postgrado,Gestión,1,4,0-1 Km
+BA-12100,Blas Alba,C,100000,Licenciatura,Gestión,1,4,10+ Km
+HA-15970,Horacio Armendáriz,C,110000,Licenciatura,Gestión,1,4,5-10 Km
+BL-11725,Baltasar Luján,C,170000,Licenciatura,Gestión,1,3,5-10 Km
+RR-20545,Romina Roque,C,80000,Estudios universitarios (en curso),Profesional,0,1,2-5 Km
+CD-12940,Corina Dueñas,C,80000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+LF-17500,Leticia Flórez,C,90000,Educación secundaria,Profesional,1,2,10+ Km
+CM-12295,Celso Meza,C,110000,Licenciatura,Gestión,1,4,10+ Km
+HT-16045,Humberto Torres,C,110000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+UV-21415,Urso Valverde,S,120000,Licenciatura,Gestión,1,2,10+ Km
+CV-12955,Cornelio Vázquez,C,80000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+FT-14635,Florencia Terán,C,90000,Educación secundaria,Profesional,1,2,10+ Km
+EA-14140,Elisenda Aguilar,C,110000,Estudios universitarios (en curso),Profesional,1,2,10+ Km
+FC-14695,Federico Callas,C,80000,Educación secundaria,Profesional,1,2,10+ Km
+RM-20485,Rodolfo Molina,C,80000,Educación secundaria,Profesional,0,2,2-5 Km
+NM-19090,Néstor Mena,C,170000,Estudios universitarios (en curso),Profesional,1,4,0-1 Km
+CG-12565,Claudio García,S,100000,Estudios universitarios (en curso),Gestión,1,4,10+ Km
+BO-12010,Bernardina Olmos,C,160000,Estudios universitarios (en curso),Gestión,0,4,10+ Km
+AA-10165,Adán Atencio,C,90000,Educación secundaria,Gestión,1,3,10+ Km
+BC-12190,Buenaventura Caldera,C,130000,Educación secundaria,Gestión,1,4,0-1 Km
+DA-13225,Dánae Abrego,C,90000,Educación secundaria,Gestión,0,3,5-10 Km
+EC-14260,Efraín Collazo,C,80000,Educación secundaria (en curso),Obrero especializado,0,2,5-10 Km
+AR-10690,Alfonso Raya,C,90000,Educación secundaria (en curso),Obrero especializado,0,2,5-10 Km
+MM-18220,Maya Méndez,C,90000,Educación secundaria (en curso),Obrero especializado,1,2,10+ Km
+CO-12925,Coralía Olivas,S,60000,Licenciatura,Profesional,0,4,2-5 Km
+EG-14320,Eulalio García,C,70000,Licenciatura,Profesional,1,3,10+ Km
+BH-11875,Baudilia Hurtado,S,70000,Licenciatura,Profesional,0,3,10+ Km
+BR-12160,Brígida Rolón,S,70000,Licenciatura,Profesional,0,3,10+ Km
+FT-14815,Fito Trujillo,C,70000,Licenciatura,Profesional,1,4,10+ Km
+KP-17140,Karen Partida,S,80000,Licenciatura,Profesional,1,3,10+ Km
+LN-17680,Lucas Nazario,C,80000,Licenciatura,Profesional,1,3,10+ Km
+RS-20425,Renau Saavedra,S,130000,Educación secundaria,Gestión,1,4,0-1 Km
+BC-12115,Blanca Carrasco,S,70000,Licenciatura,Profesional,0,4,10+ Km
+AE-10945,Anacleto Espinal,S,80000,Licenciatura,Profesional,0,3,10+ Km
+MG-19015,Mónica Granados,S,80000,Licenciatura,Profesional,0,3,10+ Km
+IB-16180,Iris Barena,S,80000,Licenciatura,Profesional,0,3,10+ Km
+BA-12070,Bianca Arreola,C,100000,Educación secundaria,Gestión,1,2,10+ Km
+NC-19270,Nerea Colunga,C,120000,Educación secundaria (en curso),Profesional,1,4,10+ Km
+FM-14650,Felicia Montañez,C,90000,Licenciatura,Profesional,1,3,10+ Km
+CÁ-13135,Cintia Álvarez,C,100000,Educación secundaria,Gestión,1,2,10+ Km
+AV-11530,Astrid Vega,S,80000,Licenciatura,Profesional,0,3,10+ Km
+CB-12730,Claudio Bañuelos,S,90000,Licenciatura,Profesional,0,3,10+ Km
+JR-16615,Judit Rodríguez,S,90000,Licenciatura,Profesional,0,3,10+ Km
+MB-18805,Millán Becerra,C,110000,Educación secundaria,Gestión,1,4,10+ Km
+FG-15010,Faustina Garrido,C,110000,Educación secundaria,Gestión,0,4,10+ Km
+AM-11245,Arán Maya,C,90000,Licenciatura,Profesional,1,4,10+ Km
+AV-11275,Ari Verduzco,C,90000,Licenciatura,Profesional,0,4,10+ Km
+SC-20785,Sandra Crespo,C,150000,Educación secundaria (en curso),Gestión,1,4,10+ Km
+RD-20215,Ramiro Dávila,C,170000,Estudios de postgrado,Gestión,1,4,0-1 Km
+NC-19255,Natividad Collazo,C,40000,Licenciatura,Obrero especializado,1,0,1-2 Km
+VZ-21685,Valerio Zayas,S,10000,Educación secundaria (en curso),Obrero,0,2,1-2 Km
+EO-13885,Edith Ojeda,S,20000,Educación secundaria (en curso),Obrero,0,2,0-1 Km
+EM-13945,Emanuel Mesa,S,30000,Estudios universitarios (en curso),Administrativo,1,1,2-5 Km
+TT-21145,Thalía Torres,S,60000,Licenciatura,Profesional,1,2,5-10 Km
+VC-21565,Vanesa Cepeda,S,20000,Educación secundaria (en curso),Obrero,0,2,1-2 Km
+CM-12820,Cornelio Marín,S,20000,Educación secundaria (en curso),Obrero,1,2,1-2 Km
+AV-10030,Adán Vera,S,30000,Educación secundaria,Obrero,0,1,1-2 Km
+AC-10105,Abraham Cedillo,C,40000,Licenciatura,Obrero especializado,1,0,1-2 Km
+TS-21205,Tino Salinas,S,30000,Educación secundaria,Obrero,0,1,1-2 Km
+TU-21295,Tomasa Urena,S,30000,Educación secundaria,Obrero,0,1,2-5 Km
+RC-20575,Reyes Coto,C,40000,Licenciatura,Obrero especializado,1,0,1-2 Km
+AO-10405,Augusto Olivares,C,40000,Licenciatura,Obrero especializado,1,0,1-2 Km
+MG-18355,Maite Girón,C,40000,Licenciatura,Obrero especializado,1,0,1-2 Km
+SB-20830,Sarai Barrientos,S,30000,Educación secundaria,Obrero,0,1,1-2 Km
+FM-14920,Francisco Molina,C,40000,Licenciatura,Obrero especializado,1,1,0-1 Km
+HU-15670,Héctor Urías,S,40000,Estudios universitarios (en curso),Administrativo,1,0,0-1 Km
+YV-21850,Yago Villanueva,C,40000,Estudios universitarios (en curso),Administrativo,0,0,0-1 Km
+NA-19285,Nicole Argüello,S,10000,Educación secundaria (en curso),Obrero,1,2,1-2 Km
+UN-21385,Uriel Nieves,S,10000,Educación secundaria (en curso),Obrero,0,2,1-2 Km
+YP-21910,Yasir Polanco,S,20000,Educación secundaria (en curso),Obrero,1,2,1-2 Km
+GJ-15295,Gladis Juárez,S,20000,Educación secundaria (en curso),Obrero,0,2,1-2 Km
+IC-16555,Ingrid Calvillo,S,20000,Educación secundaria (en curso),Obrero,0,2,0-1 Km
+BR-11770,Bartolomé Rosales,C,20000,Educación secundaria (en curso),Obrero,0,2,0-1 Km
+CM-12460,Casandra Mateo,S,30000,Educación secundaria,Obrero,0,1,2-5 Km
+LP-17785,Lara Porras,S,40000,Estudios universitarios (en curso),Administrativo,1,0,1-2 Km
+MG-18775,Máximo Guzmán,S,40000,Estudios universitarios (en curso),Administrativo,1,0,1-2 Km
+CC-13045,Crístofer Cabrera,S,40000,Estudios universitarios (en curso),Administrativo,1,1,1-2 Km
+LM-18115,Lucas Méndez,S,40000,Estudios universitarios (en curso),Administrativo,1,2,0-1 Km
+PE-19960,Pablo Esparza,S,40000,Estudios universitarios (en curso),Administrativo,1,2,1-2 Km
+JC-16960,Julio Corral,S,40000,Estudios universitarios (en curso),Administrativo,1,2,1-2 Km
+BJ-12145,Bernardo Jáquez,S,40000,Estudios universitarios (en curso),Administrativo,1,2,1-2 Km
+DC-13360,Dina Cazares,S,40000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+MR-18745,Maribel Ríos,S,40000,Estudios universitarios (en curso),Administrativo,1,2,1-2 Km
+BP-11815,Bautista Porras,S,40000,Estudios universitarios (en curso),Administrativo,1,1,0-1 Km
+LB-18070,Luisa Benítez,C,50000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+GC-15085,Genoveva Contreras,C,40000,Licenciatura,Obrero especializado,1,1,0-1 Km
+AC-10270,Adelina Castaneda,S,60000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+DC-13645,Donatella Casas,S,60000,Estudios de postgrado,Obrero especializado,0,0,0-1 Km
+AS-10960,Anacleto Santana,S,60000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+GV-15475,Guido Varela,S,60000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+BC-11905,Bautista Camarillo,C,30000,Licenciatura,Obrero especializado,1,1,5-10 Km
+FH-14575,Faustina Huerta,C,30000,Licenciatura,Obrero especializado,1,1,1-2 Km
+ES-14230,Emiliana Serna,C,30000,Licenciatura,Obrero especializado,1,1,2-5 Km
+CM-12625,Crístofer Mayo,S,20000,Educación secundaria (en curso),Obrero,1,2,1-2 Km
+OM-19780,Osvaldo Montano,S,20000,Educación secundaria (en curso),Obrero,0,2,1-2 Km
+CF-12280,Cristian Ferro,C,30000,Educación secundaria,Administrativo,1,1,2-5 Km
+BU-11980,Benito Urrutia,C,30000,Educación secundaria,Administrativo,1,1,2-5 Km
+CG-12685,Circe Grijalva,C,30000,Educación secundaria,Administrativo,1,1,2-5 Km
+ÁU-10285,Águeda Urbina,C,40000,Estudios universitarios (en curso),Administrativo,1,1,0-1 Km
+OB-19705,Orestes Briones,C,40000,Estudios universitarios (en curso),Administrativo,1,1,0-1 Km
+MM-18535,Marta Manzanares,C,40000,Estudios universitarios (en curso),Administrativo,1,1,1-2 Km
+DT-13375,Domingo Torres,C,40000,Estudios universitarios (en curso),Administrativo,1,1,0-1 Km
+HB-15820,Hernando Baeza,C,40000,Estudios universitarios (en curso),Administrativo,1,1,0-1 Km
+TM-21220,Tirso Marín,C,80000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+GC-15460,Guiomar Cuellar,C,40000,Estudios universitarios (en curso),Administrativo,1,1,0-1 Km
+IV-16135,Iván Valle,C,40000,Estudios universitarios (en curso),Administrativo,1,1,1-2 Km
+LV-17830,Lucía Villa,C,40000,Estudios universitarios (en curso),Administrativo,1,1,0-1 Km
+CG-12550,Claudio Gil,C,40000,Estudios universitarios (en curso),Administrativo,1,1,1-2 Km
+RM-20365,Rafaela Marcos,C,40000,Estudios universitarios (en curso),Administrativo,1,1,1-2 Km
+SS-20710,Salomón Soto,C,40000,Estudios universitarios (en curso),Administrativo,1,1,1-2 Km
+BL-11860,Bastián Luján,C,40000,Estudios universitarios (en curso),Administrativo,1,1,1-2 Km
+AR-11170,Antonio Rubio,C,40000,Estudios universitarios (en curso),Administrativo,1,1,1-2 Km
+LS-17560,Laia Santillán,C,40000,Estudios universitarios (en curso),Administrativo,1,1,0-1 Km
+DS-13315,Dafne Sedillo,C,40000,Estudios universitarios (en curso),Administrativo,1,1,1-2 Km
+GM-15280,Gisela Maya,C,40000,Estudios universitarios (en curso),Administrativo,1,1,1-2 Km
+JL-16870,José Luís Canales,S,60000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+ÚS-21430,Úrsula Soto,C,60000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+HQ-15730,Hortensia Quiñones,C,60000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+EM-14110,Esperanza Mesa,C,60000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+UP-21370,Urías Pantoja,S,60000,Estudios de postgrado,Obrero especializado,0,0,0-1 Km
+AA-10150,Alonso Arévalo,C,60000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+GC-15160,Gloria Carrera,S,60000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+SC-20740,Salvador Calderón,S,60000,Estudios de postgrado,Obrero especializado,0,0,0-1 Km
+EV-13960,Enrique Varela,S,20000,Estudios universitarios (en curso),Obrero,0,0,0-1 Km
+JT-17050,Jairo Tovar,C,20000,Estudios universitarios (en curso),Obrero,1,1,2-5 Km
+ÓA-19750,Óscar Armendáriz,C,30000,Licenciatura,Administrativo,1,0,1-2 Km
+RM-20380,Raúl Mesa,C,30000,Licenciatura,Administrativo,1,0,0-1 Km
+RF-20395,Ricardo Franco,C,30000,Licenciatura,Administrativo,1,0,2-5 Km
+EM-13750,Eduardo Méndez,C,40000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+AA-10555,Alina Armijo,S,40000,Estudios de postgrado,Administrativo,1,0,0-1 Km
+HO-15565,Haydee Ortega,C,40000,Licenciatura,Administrativo,1,0,0-1 Km
+PV-20035,Petra Vergara,S,40000,Licenciatura,Administrativo,1,0,0-1 Km
+OP-19690,Onésimo Pagán,S,10000,Educación secundaria,Obrero,1,1,0-1 Km
+IC-16540,Inés Calvillo,S,20000,Estudios universitarios (en curso),Obrero,0,1,1-2 Km
+NJ-19420,Nilo Jaime,C,20000,Estudios universitarios (en curso),Obrero,1,1,2-5 Km
+DR-13615,Domingo Rivero,S,10000,Educación secundaria,Obrero,1,2,0-1 Km
+CS-13075,Cesar Sedillo,C,40000,Licenciatura,Administrativo,1,0,0-1 Km
+DC-13390,David Cordero,C,20000,Estudios universitarios (en curso),Obrero,1,1,2-5 Km
+LB-17380,Lázaro Bernal,S,30000,Licenciatura,Administrativo,0,0,1-2 Km
+NM-19315,Noé Martínez,S,30000,Licenciatura,Administrativo,0,0,0-1 Km
+ÁP-10900,Ángel Prieto,S,30000,Licenciatura,Administrativo,0,1,0-1 Km
+CT-12535,Cecilia Tejada,S,30000,Licenciatura,Administrativo,0,1,1-2 Km
+IL-16600,Ivonne Laureano,S,10000,Educación secundaria (en curso),Obrero,1,2,0-1 Km
+HO-15805,Hernando Orellana,C,20000,Educación secundaria,Obrero,1,1,2-5 Km
+LC-17800,Lorena Corral,S,20000,Educación secundaria,Obrero,0,1,2-5 Km
+LM-17605,Lucrecia Maldonado,S,20000,Educación secundaria,Obrero,0,2,0-1 Km
+OM-19660,Ofelia Maya,S,20000,Educación secundaria,Obrero,1,0,0-1 Km
+RO-20560,René Olivo,C,40000,Licenciatura,Administrativo,1,0,0-1 Km
+LV-18025,Luís Velázquez,C,40000,Licenciatura,Administrativo,1,0,0-1 Km
+EL-14425,Ernesto León,S,20000,Educación secundaria,Obrero,1,0,0-1 Km
+GD-15505,Gustavo Dávila,C,30000,Licenciatura,Administrativo,1,1,2-5 Km
+FM-14710,Félix Mendoza,C,30000,Licenciatura,Obrero especializado,1,2,0-1 Km
+JC-17110,Josefina Cruz,C,30000,Licenciatura,Obrero especializado,1,2,0-1 Km
+CP-12580,Constantino Padilla,C,30000,Licenciatura,Obrero especializado,1,2,0-1 Km
+AF-10120,Abril Ferrer,S,20000,Educación secundaria,Obrero,1,1,0-1 Km
+CC-12610,Carla Canales,S,20000,Educación secundaria,Obrero,1,1,0-1 Km
+FA-14905,Francisco Alonso,S,20000,Educación secundaria,Obrero,1,2,0-1 Km
+HE-15715,Herminia Enríquez,C,30000,Licenciatura,Obrero especializado,1,2,0-1 Km
+AB-11110,Aníbal Barragán,C,30000,Licenciatura,Obrero especializado,1,2,0-1 Km
+DB-13210,Daniel Barrientos,S,10000,Educación secundaria (en curso),Obrero,1,2,0-1 Km
+MR-18430,Marc Romo,S,20000,Educación secundaria,Obrero,1,1,0-1 Km
+CA-12310,Camelia Almanza,C,30000,Licenciatura,Obrero especializado,1,1,2-5 Km
+CG-13015,Cristo Gámez,C,40000,Licenciatura,Profesional,1,0,0-1 Km
+AM-10315,Armando Medina,S,30000,Estudios universitarios (en curso),Administrativo,1,0,0-1 Km
+TD-21130,Telmo Díaz,S,30000,Estudios universitarios (en curso),Administrativo,1,0,0-1 Km
+TF-21070,Tacio Franco,C,40000,Licenciatura,Obrero especializado,1,0,0-1 Km
+RS-20620,Rocío Salcedo,C,40000,Licenciatura,Obrero especializado,1,0,0-1 Km
+EC-14080,Ernesto Cervantes,C,40000,Licenciatura,Obrero especializado,1,0,0-1 Km
+NP-19405,Nina Pérez,S,30000,Estudios universitarios (en curso),Administrativo,1,2,0-1 Km
+KC-17305,Karina Cruz,C,30000,Estudios universitarios (en curso),Administrativo,0,2,0-1 Km
+DC-13300,Dafne Canales,C,40000,Licenciatura,Obrero especializado,1,0,0-1 Km
+ES-14290,Eduardo Sierra,S,30000,Estudios universitarios (en curso),Administrativo,1,2,0-1 Km
+RM-20410,Reinaldo Mireles,S,30000,Estudios universitarios (en curso),Administrativo,1,0,0-1 Km
+DC-13180,Dalma Comejo,S,20000,Educación secundaria,Obrero,0,1,2-5 Km
+JB-16690,Jennifer Botello,S,20000,Educación secundaria,Obrero,1,1,2-5 Km
+MT-18520,Marta Tovar,S,20000,Educación secundaria,Obrero,1,2,0-1 Km
+AL-10570,Alejo Lugo,S,20000,Educación secundaria,Obrero,1,3,0-1 Km
+AP-11650,Avelino Pedroza,C,40000,Licenciatura,Obrero especializado,1,0,0-1 Km
+JU-16765,Jessica Ulloa,S,30000,Estudios universitarios (en curso),Administrativo,1,2,0-1 Km
+AB-10045,Adolfo Barraza,S,30000,Estudios universitarios (en curso),Administrativo,1,3,0-1 Km
+LM-17995,Lorenzo Mata,S,20000,Educación secundaria,Obrero,0,1,1-2 Km
+PA-20080,Prudencio Alfaro,S,30000,Estudios universitarios (en curso),Administrativo,0,1,2-5 Km
+WL-21760,Wendy Leiva,S,30000,Estudios universitarios (en curso),Administrativo,1,1,2-5 Km
+EP-13780,Elena Padrón,S,30000,Estudios universitarios (en curso),Administrativo,0,1,2-5 Km
+AS-10495,Ainhoa Saavedra,S,30000,Estudios universitarios (en curso),Administrativo,0,1,0-1 Km
+LV-18055,Luján Valdés,S,30000,Estudios universitarios (en curso),Administrativo,1,1,2-5 Km
+EA-14275,Emanuel Almaraz,S,20000,Educación secundaria,Obrero,0,1,1-2 Km
+IM-16225,Isidoro Muñoz,S,10000,Educación secundaria (en curso),Obrero,0,2,0-1 Km
+RC-20605,Rocío Chávez,S,20000,Educación secundaria,Obrero,1,1,2-5 Km
+ÁO-11050,Ángeles Ornelas,S,20000,Educación secundaria,Obrero,0,1,5-10 Km
+FL-14845,Francisco Loera,S,30000,Estudios universitarios (en curso),Administrativo,0,1,0-1 Km
+LC-18010,Lola Cavazos,S,30000,Estudios universitarios (en curso),Administrativo,0,1,0-1 Km
+ML-18790,Melanio Lerma,C,20000,Educación secundaria (en curso),Obrero,0,1,2-5 Km
+BE-11800,Bautista Espino,S,20000,Educación secundaria (en curso),Obrero,0,2,0-1 Km
+AJ-11065,Angélica Jáquez,S,30000,Estudios universitarios (en curso),Administrativo,0,1,0-1 Km
+MC-18880,Miguel Curiel,S,30000,Estudios universitarios (en curso),Administrativo,0,1,2-5 Km
+PS-19855,Pancho Saavedra,C,40000,Licenciatura,Obrero especializado,1,0,1-2 Km
+IR-16480,Ida Ramos,C,40000,Licenciatura,Obrero especializado,1,0,1-2 Km
+AL-11635,Antonio Lerma,S,60000,Estudios de postgrado,Obrero especializado,0,0,0-1 Km
+SE-20860,Samuel Escobar,C,60000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+MR-18985,Melinda Ramos,S,50000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+AG-11095,Ania Gámez,S,50000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+CM-12415,Casimira Marín,S,50000,Estudios de postgrado,Obrero especializado,0,0,0-1 Km
+CM-12790,Cruz Muñoz,C,50000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+IL-16390,Ignacio Liébanas,S,50000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+KB-17260,Koldo Bernal,S,50000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+DB-13330,Darío Briones,C,50000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+NS-19465,Noelia Salas,C,50000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+GV-15100,Gerardo Viera,C,60000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+VH-21640,Víctor Huerta,S,40000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+VP-21700,Virgilio Puertas,S,40000,Educación secundaria,Obrero especializado,1,3,10+ Km
+AJ-11695,Alina Jasón,C,60000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+AB-10720,Alejandra Banda,C,60000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+MT-18235,Maya Tapia,C,60000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+FV-14620,Flavia Valles,C,40000,Licenciatura,Obrero especializado,1,0,0-1 Km
+IL-16510,Isolda Lucero,C,60000,Estudios de postgrado,Obrero especializado,1,0,2-5 Km
+HN-15940,Horacio Nino,C,60000,Estudios de postgrado,Obrero especializado,1,0,2-5 Km
+EA-13765,Elena Argüello,S,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+HC-15865,Higinia Concepción,C,70000,Estudios de postgrado,Profesional,1,0,2-5 Km
+NP-19540,Nuri Pizarro,C,70000,Estudios de postgrado,Profesional,1,0,0-1 Km
+TS-21235,Triana Santacruz,C,70000,Estudios de postgrado,Profesional,1,0,2-5 Km
+GB-15415,Grecia Batista,C,50000,Licenciatura,Obrero especializado,1,0,2-5 Km
+FA-14770,Flora Armijo,C,50000,Licenciatura,Obrero especializado,1,0,0-1 Km
+CC-12520,Cecilia Cervantes,C,50000,Licenciatura,Obrero especializado,1,1,2-5 Km
+NV-19180,Narciso Vallés,C,50000,Licenciatura,Obrero especializado,1,1,2-5 Km
+FP-14605,Flavia Pelayo,S,40000,Licenciatura,Obrero especializado,1,0,2-5 Km
+KA-17365,Kristopher Altamira,S,40000,Licenciatura,Obrero especializado,1,0,2-5 Km
+LS-17890,Lina Sevilla,S,40000,Licenciatura,Obrero especializado,1,0,2-5 Km
+DS-13450,Diana Serna,S,40000,Licenciatura,Obrero especializado,0,0,0-1 Km
+AP-10675,Alexis Ponce,S,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+DC-13405,Dora Cintas,C,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+EB-14005,Emilia Becerra,C,60000,Estudios de postgrado,Profesional,1,0,0-1 Km
+IE-16255,Inmaculada Escobar,C,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+VL-21670,Vicente Leiva,C,60000,Estudios de postgrado,Profesional,1,0,0-1 Km
+IC-16210,Isaac Cazares,S,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+IA-16270,Inocencio Arce,C,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+MM-18475,Marina Marrero,S,70000,Estudios de postgrado,Profesional,1,0,2-5 Km
+AG-10660,Alexia Garza,C,70000,Estudios de postgrado,Profesional,1,0,2-5 Km
+CS-12595,Constantina Sepúlveda,C,70000,Estudios de postgrado,Profesional,1,0,2-5 Km
+LP-17725,Lía Pabón,C,60000,Estudios de postgrado,Profesional,1,0,0-1 Km
+EV-14155,Esteban Velázquez,S,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+HE-15895,Homero Elizondo,C,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+JR-16840,Jon Rascón,S,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+JC-17035,Jairo Castelo,S,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+MU-18955,Montano Uribarri,C,70000,Estudios de postgrado,Profesional,1,0,0-1 Km
+FJ-14830,Fernanda Juárez,S,70000,Estudios de postgrado,Profesional,1,0,2-5 Km
+HF-15880,Hipólito Fuentes,C,70000,Estudios de postgrado,Profesional,1,0,2-5 Km
+HC-15835,Humberto Chavarría,C,80000,Estudios de postgrado,Profesional,1,0,0-1 Km
+VG-21655,Violeta Galindo,C,70000,Licenciatura,Obrero especializado,1,1,2-5 Km
+LV-17575,Lourdes Villegas,S,70000,Licenciatura,Obrero especializado,1,1,2-5 Km
+MA-18415,Mariano Alejandro,S,70000,Licenciatura,Obrero especializado,1,1,2-5 Km
+EA-14185,Eugenio Aranda,S,70000,Licenciatura,Obrero especializado,1,1,2-5 Km
+MV-18310,Marcial Valdés,S,60000,Licenciatura,Obrero especializado,0,0,0-1 Km
+QG-20185,Quintín Guajardo,C,60000,Licenciatura,Obrero especializado,1,1,2-5 Km
+BS-12085,Brígida Sierra,S,60000,Licenciatura,Obrero especializado,1,1,0-1 Km
+ÓA-19735,Óscar Alba,C,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+HD-15790,Herminio Díaz,S,70000,Estudios de postgrado,Profesional,1,0,2-5 Km
+CL-12640,Cintio Luján,C,80000,Estudios de postgrado,Profesional,1,0,0-1 Km
+MO-18700,Melisa Olivo,S,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+FC-14950,Federico Carballo,C,70000,Estudios de postgrado,Profesional,1,0,2-5 Km
+AG-10510,Aisa Guardado,C,70000,Estudios de postgrado,Profesional,1,2,2-5 Km
+AE-11380,Araceli Echevarría,C,70000,Estudios de postgrado,Profesional,1,2,0-1 Km
+PN-20005,Pedro Nino,C,70000,Estudios de postgrado,Profesional,1,2,2-5 Km
+AG-11395,Amalia García,C,70000,Estudios de postgrado,Profesional,0,2,0-1 Km
+MQ-18835,Modesto Quiñones,C,80000,Estudios de postgrado,Profesional,1,0,0-1 Km
+PE-20125,Pura Esquivel,S,40000,Licenciatura,Profesional,0,1,2-5 Km
+DV-13540,Darío Vallejo,C,40000,Licenciatura,Profesional,0,1,0-1 Km
+MM-18625,Maximiliano Méndez,S,40000,Licenciatura,Profesional,0,1,2-5 Km
+LÁ-17620,León Ávila,S,40000,Licenciatura,Profesional,0,1,0-1 Km
+CA-12250,Cayetano Aparicio,S,80000,Licenciatura,Obrero especializado,1,2,2-5 Km
+CD-12265,Cándido Dávila,C,80000,Licenciatura,Obrero especializado,1,2,2-5 Km
+EP-14215,Evaristo Pérez,C,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+MA-18925,Mirna Aparicio,S,40000,Licenciatura,Profesional,0,1,2-5 Km
+PT-19885,Pastora Toro,C,40000,Licenciatura,Profesional,0,1,0-1 Km
+TV-21160,Telma Valdomero,S,50000,Licenciatura,Obrero especializado,0,2,0-1 Km
+HR-15775,Herendiara Rico,C,50000,Licenciatura,Obrero especializado,1,4,10+ Km
+KA-17215,Karmele Andante,C,50000,Licenciatura,Obrero especializado,1,3,5-10 Km
+RV-20500,Regina Vega,S,50000,Licenciatura,Obrero especializado,1,3,5-10 Km
+AC-10930,Anabel Caraballo,C,50000,Licenciatura,Obrero especializado,1,2,0-1 Km
+AÁ-10015,Abel Ángel,C,50000,Licenciatura,Obrero especializado,1,2,2-5 Km
+BC-11740,Bartolomé Camacho,S,60000,Licenciatura,Obrero especializado,0,2,0-1 Km
+MF-18490,Marlén Farías,S,60000,Licenciatura,Profesional,0,2,0-1 Km
+HT-16015,Hugo Tomás,C,60000,Licenciatura,Profesional,1,2,2-5 Km
+JM-16780,Juana Madera,S,60000,Licenciatura,Profesional,1,2,0-1 Km
+MF-18280,Magdalena Farías,S,60000,Licenciatura,Profesional,0,1,0-1 Km
+WR-21835,William Roldán,S,60000,Licenciatura,Profesional,0,1,2-5 Km
+HG-16060,Hugo Gámez,S,60000,Estudios de postgrado,Profesional,1,0,2-5 Km
+GA-15040,Gema Acosta,C,60000,Licenciatura,Profesional,1,2,2-5 Km
+AG-11260,Adrián Gálvez,S,60000,Licenciatura,Profesional,1,3,0-1 Km
+KA-17125,Kevin Alejandro,S,60000,Licenciatura,Profesional,1,3,2-5 Km
+DG-13195,Damiana Guardado,S,60000,Estudios de postgrado,Profesional,0,0,0-1 Km
+SP-20950,Silvia Pérez,C,40000,Educación secundaria,Obrero especializado,1,2,2-5 Km
+HP-15580,Herminia Páez,S,70000,Licenciatura,Profesional,0,1,0-1 Km
+EM-14455,Esmeralda Montenegro,C,70000,Estudios universitarios (en curso),Obrero especializado,1,1,2-5 Km
+AG-11155,Antonia Gallardo,C,70000,Estudios universitarios (en curso),Obrero especializado,1,1,0-1 Km
+QC-20140,Queta Carmona,C,70000,Estudios universitarios (en curso),Obrero especializado,1,1,2-5 Km
+EC-13840,Elisa Collazo,C,70000,Estudios universitarios (en curso),Obrero especializado,1,1,2-5 Km
+CS-13090,Cora Sánchez,S,40000,Educación secundaria,Obrero especializado,1,2,2-5 Km
+NA-19510,Norma Alemán,C,60000,Estudios universitarios (en curso),Obrero especializado,0,1,0-1 Km
+ET-13930,Emilio Tejeda,C,60000,Estudios universitarios (en curso),Obrero especializado,1,1,0-1 Km
+OM-19720,Oriol Montes,C,40000,Educación secundaria,Obrero especializado,1,2,2-5 Km
+GA-15355,Goratze Almaraz,C,40000,Educación secundaria,Obrero especializado,1,2,2-5 Km
+MP-19000,Mónica Pelayo,C,40000,Educación secundaria,Obrero especializado,1,2,0-1 Km
+EM-14500,Eulalia Márquez,C,60000,Estudios universitarios (en curso),Obrero especializado,1,1,0-1 Km
+RM-20455,Rocío Medina,S,70000,Estudios universitarios (en curso),Obrero especializado,0,1,2-5 Km
+RP-20320,Raimon Pineda,S,70000,Estudios universitarios (en curso),Obrero especializado,0,1,2-5 Km
+AS-10375,Asunción Soto,S,70000,Estudios universitarios (en curso),Obrero especializado,0,1,0-1 Km
+LC-17485,Leticia Castillo,S,70000,Estudios universitarios (en curso),Obrero especializado,0,1,2-5 Km
+MS-18655,Mauricio Salgado,S,60000,Estudios de postgrado,Profesional,0,1,0-1 Km
+AB-11350,Anselmo Batista,C,60000,Estudios universitarios (en curso),Obrero especializado,1,1,2-5 Km
+AG-10450,Anselmo Guardado,C,60000,Estudios universitarios (en curso),Obrero especializado,1,1,2-5 Km
+IC-16420,Isabel Coronado,C,60000,Estudios universitarios (en curso),Obrero especializado,1,1,2-5 Km
+RB-20230,Raquel Barreto,C,60000,Estudios universitarios (en curso),Obrero especializado,1,1,2-5 Km
+YA-21865,Yasmina Alfaro,C,60000,Estudios universitarios (en curso),Obrero especializado,1,1,2-5 Km
+EB-14245,Eugenia Burgos,C,60000,Estudios universitarios (en curso),Obrero especializado,1,1,2-5 Km
+JM-16645,Jorge Montero,C,60000,Estudios universitarios (en curso),Obrero especializado,0,1,0-1 Km
+AQ-11020,Andrés Quintero,C,60000,Estudios universitarios (en curso),Obrero especializado,1,1,0-1 Km
+VA-21595,Violeta Arnelas,C,60000,Estudios universitarios (en curso),Obrero especializado,0,1,0-1 Km
+RC-20305,Raimon Chavarría,C,60000,Licenciatura,Profesional,1,0,2-5 Km
+ED-14065,Elba Durán,C,60000,Licenciatura,Profesional,1,0,2-5 Km
+KP-17230,Katia Pino,C,70000,Estudios de postgrado,Profesional,1,1,0-1 Km
+JZ-16930,Juana Zaragoza,C,70000,Estudios de postgrado,Profesional,0,3,10+ Km
+LA-18040,Loyola Alba,C,80000,Estudios de postgrado,Profesional,1,0,0-1 Km
+FG-14935,Federico García,S,60000,Licenciatura,Profesional,0,1,0-1 Km
+DA-13495,Diego Avilés,C,60000,Licenciatura,Profesional,1,1,0-1 Km
+RQ-20470,Rocío Quesada,C,60000,Licenciatura,Profesional,1,1,2-5 Km
+AR-11605,Alejandra Reina,C,60000,Licenciatura,Profesional,1,1,0-1 Km
+CV-13000,Cristina Vázquez,S,60000,Licenciatura,Profesional,1,1,2-5 Km
+HA-16075,Higinio Anguiano,C,70000,Estudios de postgrado,Profesional,1,1,2-5 Km
+IA-16195,Israel Alcaraz,C,70000,Estudios de postgrado,Profesional,1,1,0-1 Km
+HO-15595,Higinio Ojeda,C,80000,Estudios de postgrado,Gestión,0,1,0-1 Km
+HP-15910,Homero Paredes,C,60000,Licenciatura,Profesional,1,1,0-1 Km
+YS-21925,Yolanda Saavedra,C,80000,Estudios de postgrado,Gestión,1,1,0-1 Km
+VC-21745,Viviana Cárdenas,C,80000,Estudios de postgrado,Gestión,1,1,0-1 Km
+GD-15145,Gaspar Dávila,C,80000,Estudios de postgrado,Gestión,1,1,0-1 Km
+AT-11425,Aurelio Torres,C,90000,Licenciatura,Profesional,1,0,0-1 Km
+SB-20905,Sebastián Botello,C,60000,Licenciatura,Profesional,1,1,2-5 Km
+EC-13795,Eleonor Carranza,S,60000,Licenciatura,Profesional,0,1,0-1 Km
+EL-14350,Eva Lara,C,70000,Licenciatura,Profesional,1,3,10+ Km
+JD-16630,Justo Díaz,C,70000,Licenciatura,Profesional,1,3,10+ Km
+AC-10540,Alan Cadena,C,110000,Estudios de postgrado,Gestión,0,1,0-1 Km
+DP-13570,Daniel Pabón,C,70000,Licenciatura,Profesional,1,4,10+ Km
+OG-19615,Oliver Galindo,S,70000,Licenciatura,Profesional,1,4,10+ Km
+AV-10585,Adrián Valentín,C,70000,Licenciatura,Profesional,1,4,10+ Km
+EC-13870,Edith Callas,C,80000,Estudios de postgrado,Gestión,1,2,0-1 Km
+AM-10630,Alejo Mondragón,S,80000,Estudios de postgrado,Gestión,1,3,0-1 Km
+MA-18670,Melania Acevedo,C,80000,Licenciatura,Profesional,1,3,0-1 Km
+NB-19135,Nadia Badillo,S,90000,Licenciatura,Profesional,0,0,2-5 Km
+EO-14440,Estefanía Ortiz,S,90000,Licenciatura,Profesional,0,0,2-5 Km
+EC-14095,Estefanía Castelo,C,90000,Licenciatura,Profesional,1,0,1-2 Km
+EH-13915,Emilio Huertas,S,50000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+GT-15220,Gregoria Tristán,S,50000,Estudios de postgrado,Obrero especializado,0,0,1-2 Km
+NA-19195,Natasha Arévalo,S,50000,Estudios de postgrado,Obrero especializado,0,0,1-2 Km
+AR-11590,Atila Riojas,C,50000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+UÁ-21325,Ubaldo Ávalos,S,50000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+AO-10810,Amalia Osorio,C,50000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+BA-12175,Bruna Almonte,S,50000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+KM-17185,Katia Montalvo,C,50000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+AP-11620,Aureliano Pizarro,S,40000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+FB-14965,Froilán Barrera,S,60000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+FN-14875,Florinda Negrón,S,60000,Estudios de postgrado,Obrero especializado,1,0,1-2 Km
+QM-20170,Queralt Mota,S,60000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+YP-21895,Yasir Pizarro,C,60000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+JM-16825,Joaquina Meraz,C,60000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+ID-16345,Irati Domínguez,C,60000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+LB-17545,Laia Batista,C,40000,Estudios de postgrado,Obrero especializado,1,0,0-1 Km
+ÍL-16330,Íñigo Leal,C,40000,Licenciatura,Obrero especializado,1,0,0-1 Km
+AS-10855,América Santiago,S,60000,Estudios de postgrado,Obrero especializado,1,0,2-5 Km
+NP-19225,Natalia Pulido,C,60000,Estudios de postgrado,Obrero especializado,1,0,2-5 Km
+CR-12805,Cristóbal Roque,S,70000,Estudios de postgrado,Profesional,1,0,2-5 Km
+EC-14380,Ester Cisneros,C,50000,Licenciatura,Obrero especializado,1,0,2-5 Km
+MA-18610,Marga Alcántara,C,50000,Licenciatura,Obrero especializado,1,0,2-5 Km
+JS-16810,Joaquín Saenz,C,60000,Estudios de postgrado,Profesional,1,0,0-1 Km
+HC-15535,Hernán Callas,C,40000,Licenciatura,Obrero especializado,1,1,0-1 Km
+DB-13600,Domingo Barrios,C,40000,Licenciatura,Obrero especializado,1,1,2-5 Km
